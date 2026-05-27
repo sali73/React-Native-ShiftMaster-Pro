@@ -1,56 +1,19 @@
-# Welcome to your Expo app 👋
+# ShiftMaster Pro 📱💼
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+A high-performance, on-demand workforce marketplace mobile and web application built using **React Native**, **Expo**, and **TypeScript**. This platform empowers users to dynamically filter, view, and instantly claim shifts from various enterprise employers with real-time global state orchestration.
 
-## Get started
+## 🚀 Key Features
+* **Cross-Platform Architecture:** Powered by Expo, supporting seamless unified performance across iOS, Android, and Web browsers from a single codebase.
+* **Real-time State Sync:** Managed with **Zustand** for lightweight, blazing-fast client-side global data flow, avoiding unnecessary React re-renders.
+* **Modern File-Based Routing:** Built utilizing **Expo Router** adhering to the latest production standards.
+* **Dynamic Analytics Dashboard:** Calculates available shifts, secured block counts, and dynamic estimated earnings dynamically on user action.
+* **Strict Type Safety:** Fully typed interfaces built using **TypeScript** to eliminate runtime exceptions and secure codebase reliability.
 
-1. Install dependencies
+## 🛠️ Tech Stack
+* **Framework:** React Native (Expo SDK)
+* **Language:** TypeScript (ES6+)
+* **State Management:** Zustand
+* **Routing:** Expo Router (File-based navigation)
+* **Styling & Theme:** Native StyleSheet (Dark Mode Theme)
 
-   ```bash
-   npm install
-   ```
-
-2. Start the app
-
-   ```bash
-   npx expo start
-   ```
-
-In the output, you'll find options to open the app in a
-
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
-
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
-
-## Get a fresh project
-
-When you're ready, run:
-
-```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-### Other setup steps
-
-- To set up ESLint for linting, run `npx expo lint`, or follow our guide on ["Using ESLint and Prettier"](https://docs.expo.dev/guides/using-eslint/)
-- If you'd like to set up unit testing, follow our guide on ["Unit Testing with Jest"](https://docs.expo.dev/develop/unit-testing/)
-- Learn more about the TypeScript setup in this template in our guide on ["Using TypeScript"](https://docs.expo.dev/guides/typescript/)
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+## 📂 Architecture Overview
