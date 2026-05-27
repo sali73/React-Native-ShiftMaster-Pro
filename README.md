@@ -17,3 +17,4 @@ A high-performance, on-demand workforce marketplace mobile and web application b
 * **Styling & Theme:** Native StyleSheet (Dark Mode Theme)
 
 ## 📂 Architecture Overview
+The codebase is structured to keep state logic strictly decoupled from UI rendering components:
