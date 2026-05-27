@@ -18,3 +18,16 @@ A high-performance, on-demand workforce marketplace mobile and web application b
 
 ## 📂 Architecture Overview
 The codebase is structured to keep state logic strictly decoupled from UI rendering components:
+┌── src/
+│   ├── app/            # Expo Router Pages & Screen Controllers (index.tsx)
+│   └── store/          # Zustand Global State Containers (shiftStore.ts)
+
+## ⚙️ Quick Start
+
+Follow these steps to get the project running locally on your machine:
+
+### 1. Clone the Repository
+```bash
+git clone [https://github.com/sali73/React-Native-_-Zustand-global-state-and-ShiftMaster-dashboard-App.git](https://github.com/sali73/React-Native-_-Zustand-global-state-and-ShiftMaster-dashboard-App.git)
+cd React-Native-_-Zustand-global-state-and-ShiftMaster-dashboard-App
+
